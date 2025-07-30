@@ -1,0 +1,15 @@
+D:\Programming\Projects\CodilityRunner\CodilityRunner\bin\Debug\net9.0\CodilityRunner.exe
+D:\Programming\Projects\CodilityRunner\CodilityRunner\bin\Debug\net9.0\CodilityRunner.deps.json
+D:\Programming\Projects\CodilityRunner\CodilityRunner\bin\Debug\net9.0\CodilityRunner.runtimeconfig.json
+D:\Programming\Projects\CodilityRunner\CodilityRunner\bin\Debug\net9.0\CodilityRunner.dll
+D:\Programming\Projects\CodilityRunner\CodilityRunner\bin\Debug\net9.0\CodilityRunner.pdb
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.AssemblyInfoInputs.cache
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.AssemblyInfo.cs
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.dll
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\refint\CodilityRunner.dll
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.pdb
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\CodilityRunner.genruntimeconfig.cache
+D:\Programming\Projects\CodilityRunner\CodilityRunner\obj\Debug\net9.0\ref\CodilityRunner.dll
+D:\Programming\Projects\CodilityRunner\CodilityRunner\bin\Debug\net9.0\test-input.txt
